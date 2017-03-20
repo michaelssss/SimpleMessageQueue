@@ -4,9 +4,9 @@ import com.michaelssss.core.Message;
 import com.michaelssss.core.MessageQueueFactory;
 import com.michaelssss.core.Queue;
 
-public class ConsumingThread implements Runnable {
-    private Queue<Message> queue;
+class ConsumingThread implements Runnable {
     private final static Push pusher = new SimplePushImpl();
+    private Queue<Message> queue;
     private String topic;
 
     public ConsumingThread(String topic) {

@@ -8,16 +8,6 @@
     <option name="selectedJavaProfile" value="CodeFormatter" />
     <option name="useForLiveTemplates" value="true" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="D:/Code/spring-framework" value="5879209236354" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="JUnitGeneratorProjectSettings">
     <option name="combineGetterAndSetter" value="true" />
     <option name="selectedTemplateKey" value="JUnit 4" />
